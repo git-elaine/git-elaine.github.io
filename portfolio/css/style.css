@@ -928,7 +928,7 @@ img.pull-left {
   bottom: -9rem;
 }
 
-@media  (min-width: 695px) {
+@media  (max-width: 695px) {
   #esky .img-wrap img::before {
     height: 130%;
   }
