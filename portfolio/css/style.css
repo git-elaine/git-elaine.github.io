@@ -952,9 +952,12 @@ img.pull-left {
   }
 }
 @media (max-width: 490px) {
-  .img-wrap img {
+  #esky .img-wrap img {
     height: 500px;
     width: 310px;
+  }
+  .img-wrap img {
+    position: relative;
   }
   .bg-project-case .container-lg>.row>.col-6 {
     width: 100%;
