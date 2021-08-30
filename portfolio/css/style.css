@@ -925,6 +925,7 @@ img.pull-left {
 
 #esky .img-wrap img {
   width: auto;
+  height: 130%;
   bottom: -9rem;
 }
 
@@ -943,7 +944,7 @@ img.pull-left {
     position: relative;
   }
 }
-@media (max-width: 680px) {
+@media (max-width: 695px) {
   .img-wrap img {
     width: 80%;
     height: fit-content;
