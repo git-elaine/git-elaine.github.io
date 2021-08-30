@@ -925,10 +925,14 @@ img.pull-left {
 
 #esky .img-wrap img {
   width: auto;
-  height: 130%;
   bottom: -9rem;
 }
 
+@media  (min-width: 695px) {
+  #esky .img-wrap img::before {
+    height: 130%;
+  }
+}
 @media screen and (min-width: 600px) {
   .bg-project-case::before {
     width: 50vw;
