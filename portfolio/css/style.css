@@ -953,7 +953,8 @@ img.pull-left {
 }
 @media (max-width: 490px) {
   .img-wrap img {
-    position: relative;
+    height: 500px;
+    width: 310px;
   }
   .bg-project-case .container-lg>.row>.col-6 {
     width: 100%;
