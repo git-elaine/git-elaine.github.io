@@ -2045,7 +2045,7 @@ iframe {
 }
 
 .portfolio .filters-content .card .card-body {
-  height: 85px;
+  min-height: 85px;
 }
 .portfolio .filters-content .card .card-body h5 {
   font-size: 15px;
