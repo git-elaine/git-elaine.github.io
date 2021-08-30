@@ -1437,7 +1437,7 @@ img.pull-left {
 }
 @media (max-width:600px) {
   #esky .prototype-wrap {
-    height: 60vh;
+    height: 100vh;
   }  
 }
 
