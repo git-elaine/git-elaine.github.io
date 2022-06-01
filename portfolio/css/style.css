@@ -984,7 +984,8 @@ img.pull-left {
 
 .flow-wrap div+div::before {
   content: '\f105';
-  font: normal normal normal 1.5rem/1 FontAwesome;
+  font: normal normal normal 1.5rem/1 Font Awesome 5 Free;  
+  font-family: "Font Awesome 5 Free";
   position: absolute;
   top: 35%;
   left: 0;
@@ -1193,7 +1194,7 @@ img.pull-left {
 
 .user-group .tab-content .swiper-container::before,
 .user-group .tab-content .swiper-container::after {
-  font: normal normal normal 4rem/1 FontAwesome;
+  font: normal normal normal 4rem/1 Font Awesome 5 Free;
   color: #d7cfc2;
   display: block;
   position: absolute;
@@ -1873,7 +1874,8 @@ iframe {
 }
 
 #experienceCont .timeline-title button::after {
-  font: normal normal normal 1.5rem/1 FontAwesome;
+  font: normal normal normal 1.5rem/1 Font Awesome 5 Free;  
+  font-family: "Font Awesome 5 Free";
   display: block;
   float: right;
 }
