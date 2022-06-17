@@ -1867,7 +1867,8 @@ iframe {
   display: block;
   width: 100%;
   padding: 0;
-  text-align: left;
+  text-align: left;  
+  color: #000;
 }
 
 #experienceCont .timeline-title button:hover {
